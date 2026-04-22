@@ -8,6 +8,10 @@ struct SwiftPlayground {
 //prints Onslow College.
         print("Onslow College")
 
-        print("
+        print(" [" ","C","C","C"," "],
+            ["C"," "," "," "," "],
+            ["C"," "," "," "," "],
+            ["C"," "," "," "," "],
+            [" ","C","C","C"," "]"
     }
 }
