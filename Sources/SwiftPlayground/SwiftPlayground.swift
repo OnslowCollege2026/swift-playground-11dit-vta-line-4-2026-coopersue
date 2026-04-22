@@ -7,5 +7,7 @@ struct SwiftPlayground {
         print("Hello, Cooper!")
 //prints Onslow College.
         print("Onslow College")
+
+        print("
     }
 }
